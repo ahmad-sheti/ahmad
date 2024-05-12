@@ -1,0 +1,10 @@
+C:\Users\Noor\source\repos\الة حاسبة\الة حاسبة\bin\Debug\الة حاسبة.exe.config
+C:\Users\Noor\source\repos\الة حاسبة\الة حاسبة\bin\Debug\الة حاسبة.exe
+C:\Users\Noor\source\repos\الة حاسبة\الة حاسبة\bin\Debug\الة حاسبة.pdb
+C:\Users\Noor\source\repos\الة حاسبة\الة حاسبة\obj\Debug\الة حاسبة.csproj.AssemblyReference.cache
+C:\Users\Noor\source\repos\الة حاسبة\الة حاسبة\obj\Debug\الة_حاسبة.Form1.resources
+C:\Users\Noor\source\repos\الة حاسبة\الة حاسبة\obj\Debug\الة_حاسبة.Properties.Resources.resources
+C:\Users\Noor\source\repos\الة حاسبة\الة حاسبة\obj\Debug\الة حاسبة.csproj.GenerateResource.cache
+C:\Users\Noor\source\repos\الة حاسبة\الة حاسبة\obj\Debug\الة حاسبة.csproj.CoreCompileInputs.cache
+C:\Users\Noor\source\repos\الة حاسبة\الة حاسبة\obj\Debug\الة حاسبة.exe
+C:\Users\Noor\source\repos\الة حاسبة\الة حاسبة\obj\Debug\الة حاسبة.pdb
